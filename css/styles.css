@@ -91,6 +91,10 @@ a {
 .hero {
     padding: 188px 0;
     background-color:#2e2f42;
+    background-image: radial-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url('../images/people-office 1.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 .hero-container {
     display: flex;
@@ -139,6 +143,7 @@ body {
 .features-block {
     display: flex;
 }
+
 .features-item {
     display: flex;
     gap: 24px;
