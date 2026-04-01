@@ -143,7 +143,10 @@ body {
 .features-block {
     display: flex;
 }
-
+.features-icon {
+    width: 48px;
+    height: 48px;
+}
 .features-item {
     display: flex;
     gap: 24px;
